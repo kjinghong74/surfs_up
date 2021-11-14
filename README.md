@@ -3,7 +3,7 @@
 ***Weather Temperature Analysis for June and December in Oahu ***
 
 ## **Overview of Project**
-  As we know the bussiness of surf and ice cream shop will be influenced by weather, in order to determine whether the bussiness of surf and ice cream shop can be sustainable during the whole year, the observed temperature data for June and December in Oahu was analyzed to represent the temperature conditions in summber and in winter there.
+  As we know the bussiness of surf and ice cream shop will be influenced by weather, in order to determine whether the bussiness of surf and ice cream shop can be sustainable during the whole year, the observed temperature data for June and December in Oahu was analyzed to represent the temperature conditions in summer and in winter over there.
 
 ## **Results**
 - The temperature observation count for Jun and Dec is similar, 1700 count for Jun and 1517 count for Dec
